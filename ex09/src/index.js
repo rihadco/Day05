@@ -1,7 +1,7 @@
-function main() {
+function main(){
     var lastName = "Doe";
     var firstLetterOfLastName = " ";
-    firstLetterOfLastName = lastName[0]; 
+    var firstLetterOfLastName = lastName[0]; 
     return firstLetterOfLastName;
 }
 console.log(main());

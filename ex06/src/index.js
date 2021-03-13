@@ -4,4 +4,4 @@ function main(){
 return myString;
 }
 console.log(main());
-module.expotrs = main;
+module.exports = main;

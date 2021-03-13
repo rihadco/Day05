@@ -1,12 +1,6 @@
 function main(){
-
-    // Only change code below this line
-
     var myFirstString = "I think therefore I \"am\" -- sentient.";
-    var mySecondString = "No, you only \"think\", so your aren\'t.";
-
-    // Only change code abowe this line
-
+    var mySecondString = "No, you only \"think\", so you aren\'t.";
     return {
         myFirstString,
         mySecondString

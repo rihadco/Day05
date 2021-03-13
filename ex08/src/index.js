@@ -1,9 +1,7 @@
 function main(){
-    
     var lastName = "Doe";
-    var lastNameLenght = lastName.length;
-
-    return lastNameLenght;
+    var lastNameLength = lastName.length;
+    return lastNameLength;
 }
 console.log(main());
-module.expotrs = main;
+module.exports = main;

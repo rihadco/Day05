@@ -1,8 +1,7 @@
-function main() {
-
+function main(){
     var lastName = "Tesla";
-    var lastLetterOfLasName = lastName[lastName.length - 1];
-    return lastLetterOfLasName;
+    var lastLetterOfLastName = lastName[lastName.length - 1];
+    return lastLetterOfLastName;
 }
 console.log(main());
-module.expotrs = main;
+module.exports = main;

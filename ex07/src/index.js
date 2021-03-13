@@ -1,8 +1,8 @@
 function main(){
-    var myAdjective ="the best!";
+    var someAdjective ="the best!";
     var myString = "Mistral is ";
-    myString += myAdjective;
+    myString += someAdjective;
     return myString;
 }
 console.log(main());
-module.expotrs = main;
+module.exports = main;
